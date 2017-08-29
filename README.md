@@ -1,6 +1,9 @@
 # devops-aula03
 # Ferramentas de controle de versão:
 * Mercurial
-* GitLab
+<<<<<< ramo2
+* Git
+*git
+>>>>>> master
 * Subversion
 * CVS
